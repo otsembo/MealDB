@@ -9,7 +9,7 @@ A simple app built with angular.
 
 # Live Link
 
-[Meal DB Live](https://otsembo.github.io/MealDB)
+[Meal DB Live](https://otsembo.github.io/MealDB/home)
 
 # Getting Started
 In order for you to use the content on this repo ensure you have the following:
