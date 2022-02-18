@@ -5,7 +5,7 @@
 
         <div class="input-field col s4">
           <i class="material-icons prefix">search</i>
-          <input id="search" type="text" class="validate" placeholder="Look for food recipes ..." name="search">
+          <input id="search" type="text" class="validate" [(ngModel)]="searchTerm" [ngModelOptions]="{standalone: true}" placeholder="Look for food recipes ..." name="search">
         </div>
 
         <input class="btn-large brown" type="submit" value="Search">
