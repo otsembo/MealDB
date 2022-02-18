@@ -1,7 +1,7 @@
 # MealDB
 
 
-[![GitHub issues](https://img.shields.io/github/issues/otsembo/MC52Catchups-Flask)](https://github.com/otsembo/MC52Catchups-Flask/issues) [![GitHub forks](https://img.shields.io/github/forks/otsembo/MC52Catchups-Flask)](https://github.com/otsembo/MC52Catchups-Flask/network) [![GitHub stars](https://img.shields.io/github/stars/otsembo/MC52Catchups-Flask)](https://github.com/otsembo/MC52Catchups-Flask/stargazers) [![GitHub license](https://img.shields.io/github/license/otsembo/MC52Catchups-Flask)](https://github.com/otsembo/MC52Catchups-Flask/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/otsembo/MealDB)](https://github.com/otsembo/MealDB/issues) [![GitHub forks](https://img.shields.io/github/forks/otsembo/MealDB)](https://github.com/otsembo/MealDB/network) [![GitHub stars](https://img.shields.io/github/stars/otsembo/MealDB)](https://github.com/otsembo/MealDB/stargazers) [![GitHub license](https://img.shields.io/github/license/otsembo/MealDB)](https://github.com/otsembo/MealDB/blob/main/LICENSE)
 
 # Description
 A simple meals' application that has recipes on how to prepare them. 
